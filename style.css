@@ -1,0 +1,150 @@
+.header{
+    width: 100%;
+    background-color: white;
+     height: 91px;
+     position: fixed;
+ }
+ body{
+     margin: 0;
+ }
+ .logo{
+     margin-left: 58px;
+     margin-top: 7px;
+ }
+ .nav{
+    margin-left: 247px;
+    margin-top: -51px;
+ }
+ .val:hover{
+   color: red;
+ }
+ .val{
+     margin-left: -120px;
+     font-size: 21px;
+     font-weight: bold;
+ }
+ .soci:hover{
+    color: red;
+ }
+  .soci{
+     margin-left: -4px;
+     margin-top: -26px;
+     font-size: 21px;
+     font-weight: bold;
+  }
+  .news:hover{
+    color: red;
+  }
+  .news{
+     margin-left: 179px;
+     margin-top: -26px;
+     font-size: 21px;
+     font-weight: bold;
+  }
+  .her:hover{
+    color: red;
+  }
+  .her{
+     margin-left: 273px;
+     margin-top: -24px;
+     font-size: 21px;
+     font-weight: bold;
+  }
+  .loc:hover{
+    color: red;
+  }
+  .loc{
+    margin-left: 411px;
+    margin-top: -25px;
+    font-size: 21px;
+    font-weight: bold;
+  }
+  .P1{
+    text-align: center;
+    margin-top: -461px;
+    font-size: 40px;
+    color: white;
+  }
+  .p2{
+     margin-top: 683px;
+     margin-left: 263px;
+     font-size: 22px;
+     font-style: revert;
+  }
+  .p3{
+    text-align: center;
+    font-size: 25px;
+  }
+  .btn{
+     margin-left: 600px;
+     background: red;
+     height: 41px;
+  }
+  .btn1{
+     WIDTH: 335px;
+     height: 72px;
+     background: red;
+  }
+  .bt2{
+    WIDTH: 366px;
+    height: 72px;
+    background: red;
+  }
+  .btn2{
+     margin-left: 334px;
+     margin-top: -72px
+  }
+  .bt3{
+   WIDTH: 342px;
+     height: 72px;
+     background: red;
+  }
+  .btn3{
+    margin-left: 700px;
+    margin-top: -72px;
+    width: 25%;
+    text-align: center;
+    font-size: 28px;
+    
+  }
+  .bt4{
+     height: 72px;
+     width: 358px;
+     background: red;
+  }
+  .btn4{
+   width: 25%;
+   margin-left: 966px;
+   margin-top: -72px;
+  }
+  .logo2{
+     margin-left: 70px;
+     margin-top: 63px;
+  }
+  .foot1{
+     text-align: center;
+     margin-left: -358px;
+     margin-top: -117px;
+  }
+  .foot2{
+     text-align: center;
+     MARGIN-LEFT: 148px;
+     margin-top: -246px;
+  }
+  .foot3{
+     text-align: center;
+     margin-left: 755px;
+     margin-top: -143px;
+  }
+  .kl{
+    margin-top: 413px;
+  }
+  .po{
+    text-align: center;
+    font-size: 41px;
+  }
+  .icon2{
+   width: 23px;
+    margin-left: 700px;
+    margin-top: -45px;
+  }
